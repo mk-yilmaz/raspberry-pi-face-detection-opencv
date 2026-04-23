@@ -69,4 +69,4 @@ while True:
 
 
 # Programm beendet
-print("Porgramm beendet")
+print("Programm beendet")
