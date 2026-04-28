@@ -1,4 +1,3 @@
-# raspberry-pi-face-detection-opencv
 ## 🇬🇧 English Version
 # Face Detection with Python (Raspberry Pi Camera)
 This project demonstrates a simple face detection system using Python and a Raspberry Pi camera.
@@ -37,7 +36,7 @@ Saved images are stored in:
 # Author
 M. Yilmaz
 
-
+---------------------------------------------------------------------------------------------------------------------------
 ## 🇩🇪 German Version
 # Gesichtserkennung mit Python (Raspberry Pi Kamera)
 Dieses Projekt zeigt eine einfache Gesichtserkennung mit Python unter Verwendung einer Raspberry Pi Kamera.
